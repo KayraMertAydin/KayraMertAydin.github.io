@@ -6,8 +6,8 @@
 
 .container{
     background:url(d7a9ec6d80377140f2610275b6195bb6.jpg) ;
-    height: 300vh;
-    background-size: 100% 10%;
+    height: 250vh;
+    background-size: 100% 40%;
 }
 
 .container .navbar{
@@ -121,3 +121,18 @@
     font-size: 30px;
     width: 1000px;
 }
+
+.efe img{
+    width: 200px;
+    margin: 50px 0x;
+    user-select: none;
+}
+
+.efe h3{
+    color: #f3f3f3;
+    margin: -150px 250px;
+    font-size: 30px;
+    width: 1000px;
+
+}
+
